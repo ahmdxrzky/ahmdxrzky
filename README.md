@@ -9,3 +9,10 @@ Saya pernah meraih gelar [Honorable Mention](https://drive.google.com/file/d/1Pp
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmdxrzky/)ku ya.
 
 Terima kasih!
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmdxrzky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmdxrzky&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
