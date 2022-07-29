@@ -1,4 +1,4 @@
-# Hello, fellas! 
+# Hello, world! 
 
 My name is **Ahmad Rizky**. You can call me **Rizky**, but many of my friends call me **Iky**.
 
@@ -26,7 +26,11 @@ I join Bangkit 2022 Program as a Machine Learning Student to fulfill my interest
 * [Evaluation of Machine Learning Ability](https://www.dicoding.com/certificates/07Z6RG4NJPQR)
 * [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/ZVT3Z8LYBMDD)
 
-I've achieved a title called [Honorable Mention](https://drive.google.com/file/d/1PpgIUSVuKYuFPvse1weFGS1VCi5n8oIo/view?usp=sharing) on Kompetisi Nasional Matematika dan Ilmu Pengetahuan Alam (KNMIPA) Program held by Kemendikbudristekdikti on 2021. I also have joined a certification program for [Microcredential Associate Data Scientist](https://drive.google.com/file/d/1g1V7wpu8w_YRYIlDTqmNpCZCc7d25Z4w/view?usp=sharing), also held by Kemendikbudristekdikti on 2021.
+Through this github profile, I'd love to share projects that I've been worked earlier. To get more description, you can simply click the titles shown below.
+* [BoemBoe](https://github.com/ahmdxrzky/capstone-bangkit-2022/blob/main/README.md)
+
+
+I've achieved a title called [Honorable Mention](https://drive.google.com/file/d/1PpgIUSVuKYuFPvse1weFGS1VCi5n8oIo/view?usp=sharing) on Kompetisi Nasional Matematika dan Ilmu Pengetahuan Alam (KNMIPA) Program held by Kemendikbudristekdikti on 2021. I also have joined a certification program for [Microcredential Associate Data Scientist](https://drive.google.com/file/d/1g1V7wpu8w_YRYIlDTqmNpCZCc7d25Z4w/view?usp=sharing), also held by Kemendikbudristekdikti on 2021. I also have joined a bootcamp for [Beginner Data Scientist](https://drive.google.com/file/d/14MRHkb2QgAhvvXKvIoYq6RCnWiC2xA14/view?usp=sharing) held by DQLab.
 
 If you got some interest to know me more, please connect with me through my [Linkedin](https://www.linkedin.com/in/ahmdxrzky/) account.
 
