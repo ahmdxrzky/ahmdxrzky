@@ -12,7 +12,7 @@ I am a Physics Undergraduate Student at IPB University. From my major, I've also
 * Control System. I've learned about Working on Linux and made a simple web integrated with Database that generate data from API simultaneously.
 
 
-I join Bangkit 2022 Program as a Machine Learning Student to fulfill my interest in Data and Machine Learning field. From this program, I've taken courses and learn about:
+I am a Machine Learning Graduate with Distinction from Bangkit 2022 Program, which help me to fulfill my interest in Data and Machine Learning field. From this program, I've taken courses and learn about:
 * [Learn Basic Git with Github](https://www.dicoding.com/certificates/QLZ910RN2P5D)
 * [Programming Logic 101](https://www.dicoding.com/certificates/N9ZOERM0RXG5)
 * [Basic Programming for Software Developer](https://www.dicoding.com/certificates/6RPN85ROQZ2M)
